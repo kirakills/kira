@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+<title>HTML</title>
+<h1 style="color:black;font-size:30px"><pre>                         WIDELY USED PROGRAMMING LANGUAGES</pre></h1>
+<pre>                                                      <img src="lan.png"></pre>
+<p style="font-family:sans-serif;font-size:20px">There are many programming languages used all over the world, and we will see some of the most widely used ones.</p>
+<pre><b><p style="font-size:20px;;color:red">
+        1. Javascript
+        2. Python
+        3. Java
+        4. C#
+</p></b></pre>
+<p style="font-size:20px"><a href="#C3">JUMP TO JAVA</a></p>
+<h1>1. Javascript</h1>
+
+<pre><p style="font-size:19px;font-family:sans-serif">Javascript is a high-level programming language that is one of the core technologies of the World Wide Web. It is used
+as a client-side programming language by 97.8 percent of all websites. JavaScript was originally used only to develop web 
+browsers, but they are now used for server-side website deployments and non-web browser applications as well.
+Javascript was created in 1995 and was initially known as LiveScript. However, Java was a very popular language at that time,
+so it was advertised as a “younger brother” of Java.
+
+Javascript is the most popular programming language in the world and is in high demand among various organizations.
+The average Java developer earns around $112,152 each year.
+</pre> </p>
+<pre><img src="jav.webp"><img src="jas.png"></pre></pre>
+<p>IF YOU WANT TO LEARN JAVASCRIPT <a href="https://www.w3schools.com/js/default.asp"target="_blank">CLICK THIS LINK</a></p>
+<h2>2. Python</h2>
+<pre><p style="font-size:19px;font-family:sans-serif">Python is one of the most popular programming languages today and is easy for beginners to learn because ofits readability.
+It is a free, open-source programming language with extensive support modules and community development, easy integration with web services,
+user-friendly data structures, and GUI-based desktop applications. It is a popular programming language for machine learning and deep learning applications.
+It is a popular programming language for machine learning and deep learning applications.
+
+Python is used for scientific and computational applications like FreeCAD and Abacus and by popular websites like YouTube, Quora, Pinterest,
+and Instagram. Python developers earn average annual salaries of about $109,092. </p></pre>
+<pre><img src="pyt.png"><img src="ps.jpg"height='600';width='600'></pre></pre>
+<p>IF YOU WANT TO LEARN PYTHON <a href="https://www.w3schools.com/python/default.asp"target="_blank">CLICK THIS LINK</a></p>
+<h3 id="C3">3.  Java</h3>
+<pre><p style=font-size:19px;"font-family:sans-serif">Java is one of the most popular programming languages used today.Owned by Oracle Corporation, this general-purpose
+programming language with its object-oriented structure has become a standard for applications that can be used regardless of
+platform (e.g., Mac, Windows, Android, iOS, etc.) because of its Write Once, Run Anywhere (WORA) capabilities.As a result,
+Java is recognized for its portability across platforms, from mainframe data centers to smartphones.Today there are more than
+3 billion devices running applications built with Java.
+
+Java is a more complex language to learn, but experienced developers with Java coding skills are in high demand. 
+The average Java developer earns around $109,225 each year.
+</pre>
+<pre><img src="jao.png"height='800';width='800'></pre>
+<p>IF YOU WANT TO LEARN JAVA <a href="https://www.w3schools.com/java/default.asp"target="_blank">CLICK THIS LINK</a></p>
+<h4>4.  C#(C SHARP)<h4>
+<pre><P style=font-size:19px;"font-family:sans-serif">Developed by Microsoft, C# rose to fame in the 2000s for supporting the concepts of
+object-oriented programming. 
+It is one of the most used programming languages for the .NET framework. Anders Hejlsberg, the creator of C#, says
+the language is more like C++ than Java.
+
+C# is best suited for applications on Windows, Android, and iOS, as it takes the help of the integrated development environment
+product,Microsoft Visual C++.
+C# is used on the back end of several popular websites like Bing, Dell, Visual Studio, and MarketWatch. 
+C# developers earn around $111,760 per year.</p></pre>
+<img src="sh.webp"height='900';width='900'>
+<p>IF YOU WANT TO LEARN C# <a href="https://www.w3schools.com/cs/index.php"target="_blank">CLICK THIS LINK</a></p>
+<style>
+body {
+  background-image: url(cos.jpg);
+  background-repeat:repeat;
+  background-attachment:fixed;
+ } 
+  </style>
+  <pre><p style="color:brown;font-size:20px">                                        THIS VIDEO WILL TEACH YOU A LITTLE ABOUT HTML</P></pre>
+  <pre>  <video width="1300" height="440" controls>
+  <source src="w3.mp4" type="video/mp4"></pre>
+ 
+</video>
+  <pre><b><p style="font-size:35px;color:black">                        THE FUTURE</p><b></pre>
+  <img src="AI.gif"height='700'width='600'> <img src="Ai3.gif"height='600'width='600'>
+  
+  <div class="row">
+    <div class="column">
+    <pre>                                                                        <img src="binary.png"height='300'width='300'></pre>
+   <div class="container">
+  <div style="text-align:center">
+    <h2>Contact Us</h2> 
+	<p>come and contact us, or leave us a message:</p>
+  </div>
+   
+	</div>
+	<pre>
+    <div class="column">
+    <form action="/action_page.php">
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+   
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+   
+    <label for="country">Country</label>
+    <select id="country" name="country">
+    <option value="ethiopia">Ethiopia</option>
+    <option value="somalia">Somalia</option>
+    <option value="sudan">Sudan</option>
+    </select>
+
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="width:400px;height:300px"></textarea>
+    
+    <input type="submit" value="Submit">
+	</pre>
+    </form>
+  </div>
+  </div>
+  </div>
+  
+  <pre> <p style=font-size:30px>                             TEAM MEMBERS</p>
+<p style=font-size:20px>MICHAEL MITIKU<hr size="30px"color="green"></p>
+<p style=font-size:20px>FITSUM SIMEGNE<hr size="30px"color="yellow"></p>
+<p style=font-size:20px>DISASA DIBABA<hr size="30px"color="red"></p>
+<p style=font-size:20px>SAMUEL GETACHEW<hr size="30px"color="yellow"></p>
+<p style=font-size:20px>OMER ABDULFETAH<hr size="30px"color="green"></p>
+</body>
+</html>
